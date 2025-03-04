@@ -50,5 +50,5 @@
   Adapt the sensor for use in vehicle systems to provide basic proximity warnings, helping to avoid collisions in low-speed environments.
 
   
-#### Below is a link showing the working of the code:
+#### Below is a link showing the working of the project:
 [VIDEO LINK](https://drive.google.com/file/d/1nuWZ3isC7QNVTemP3syfTg3KpbDGcqeA/view?usp=sharing)
