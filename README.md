@@ -1,9 +1,9 @@
 # Simple_IR_Sensor_using_RasberryPi4
 
-# MY FIRST PROJECT USING RASBERRY PI .
-# A SIMPLE IR SENSOR (WITH A LED AND A BUZZER )!
+### MY FIRST PROJECT USING RASBERRY PI .
+### A SIMPLE IR SENSOR (WITH A LED AND A BUZZER )!
 
-## This repository contains a Python script designed for the Raspberry Pi 4 that uses an infrared (IR) sensor to detect obstacles. When an obstacle is detected, the system activates an LED and a buzzer, making it suitable for robotics, security systems, and other interactive projects.
+### This repository contains a Python script designed for the Raspberry Pi 4 that uses an infrared (IR) sensor to detect obstacles. When an obstacle is detected, the system activates an LED and a buzzer, making it suitable for robotics, security systems, and other interactive projects.
 ## Details
 
 ### Name: R . VIJAY
