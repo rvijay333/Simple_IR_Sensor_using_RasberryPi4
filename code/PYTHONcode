@@ -1,3 +1,5 @@
+ ```python //
+
 import RPi.GPIO as GPIO
 import time
 
@@ -38,4 +40,7 @@ except KeyboardInterrupt:
 finally:
     # Clean up the GPIO settings before exiting
     GPIO.cleanup()
+
+
+ ```
 
