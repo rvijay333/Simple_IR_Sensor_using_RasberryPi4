@@ -6,7 +6,7 @@ The system uses a Raspberry Pi to continuously monitor an infrared (IR) sensor f
 
 ### Program
 
-```python
+```python \\
 import RPi.GPIO as GPIO
 import time
 
