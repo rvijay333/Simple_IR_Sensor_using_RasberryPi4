@@ -1,5 +1,12 @@
- ```python //
+# Principle
 
+The system uses a Raspberry Pi to continuously monitor an infrared (IR) sensor for obstacles. When the sensor detects an obstacle (i.e., when the sensor's input reads `0`), the program activates an LED and a buzzer to provide visual and audible alerts. If no obstacle is detected, both the LED and buzzer remain off. This simple setup is ideal for robotics, security systems, or any project requiring basic obstacle detection.
+
+<hr>
+
+### Program
+
+```python
 import RPi.GPIO as GPIO
 import time
 
@@ -40,7 +47,3 @@ except KeyboardInterrupt:
 finally:
     # Clean up the GPIO settings before exiting
     GPIO.cleanup()
-
-
- ```
-
